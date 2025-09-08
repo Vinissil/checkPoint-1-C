@@ -1,5 +1,3 @@
-# checkPoint-1-C
-
 # CP1 – Fundamentos de C# (Turma 3ESPY)
 
 Implementação das 10 questões do **Checkpoint 1** de Fundamentos de C#.
