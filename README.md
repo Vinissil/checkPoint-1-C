@@ -1,4 +1,6 @@
-# CP1 – Fundamentos de C# (Turma 3ESPY)
+# CP1 – Fundamentos de C# (Turma 3ESPR)
+
+- Vinicius Souza e Silva - RM552781
 
 Implementação das 10 questões do **Checkpoint 1** de Fundamentos de C#.
 Cada questão demonstra uma estrutura básica da linguagem conforme solicitado.
