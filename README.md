@@ -51,20 +51,6 @@ dotnet run
 - `AnalisarNotas([8.5,7.0,9.2,6.5,10.0,4.8])` → média, aprovados, maior/menor, A–F
 - `ProcessarVendas(...)` → totais por categoria e comissões
 
-## Entrega (sugestão)
-
-1. Criar repositório **público** no GitHub.
-2. Subir os arquivos e enviar o link conforme pedido pelo professor.
-
-```bash
-git init
-git add .
-git commit -m "CP1 - Implementação completa"
-git branch -M main
-git remote add origin https://github.com/<seu-usuario>/<seu-repo>.git
-git push -u origin main
-```
-
 ## Observações
 
 - Cada questão usa **explicitamente** a estrutura exigida (switch, if/else, for, while, do…while, foreach).
