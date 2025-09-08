@@ -8,13 +8,6 @@ Cada questão demonstra uma estrutura básica da linguagem conforme solicitado.
 - **.NET SDK 8.0** (ou compatível)
 - Terminal/CLI ou IDE (Visual Studio / Rider / VS Code + C#)
 
-## Como executar
-
-```bash
-dotnet build
-dotnet run
-```
-
 > As **chamadas de teste** já estão no `Main`, mostrando a execução de cada questão.
 
 ## O que foi implementado
